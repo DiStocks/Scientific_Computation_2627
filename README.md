@@ -94,30 +94,34 @@ P12: Simplified model for convective clustering
 # # Preliminary schedule 
 The course will be give from 20.10.2026 to 02.02.2027 each two weeks on Tuesdays in room 2.28.2.100. 
 
-Tuesday 20 October 8.15 -> 9.45  
+* Tuesday 20 October 8.15 -> 9.45  
+
 Representation of numbers & Random numbers generators 
 
-Tuesday 3 November 8.15 -> 9.45  
+* Tuesday 3 November 8.15 -> 9.45  
+
 Distribution estimation
 
-Tuesday 17 November 8.15 -> 9.45
+* Tuesday 17 November 8.15 -> 9.45
+
 Fit & Root finding: bouncing ball
 
-Tuesday 1 December 8.15 -> 9.45
+* Tuesday 1 December 8.15 -> 9.45
+
 Root finding: bouncing ball & Ordinary differential equations
 
-Tuesday 15 December 8.15 -> 9.45 
+* Tuesday 15 December 8.15 -> 9.45 
 
 Ordinary differential equations
 
-Tuesday 05 January 8.15 -> 9.45 
+* Tuesday 05 January 8.15 -> 9.45 
 
 Random walk & diffusion-limited aggregation (DLA)
 
-Tuesday 19 January 8.15 -> 9.45
+* Tuesday 19 January 8.15 -> 9.45
 
 Integration & Monte Carlo integration
 
-Tuesday 02 February 8.15 -> 9.45
+* Tuesday 02 February 8.15 -> 9.45
 
 Fourier Transform and its applications
